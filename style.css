@@ -178,6 +178,24 @@ margin: 5%;
     text-align: center;
   }
   
+  .inline-block {
+    width: 20%;
+    display: inline-block;
+ }
+
+.bootstrap{
+  width:11%;
+}
+
+.cpp{
+  margin-left: 1.46%;
+  width:11%;
+}
+
+ .react{
+    width: 13%;
+ }
+
   .social-circle li a:hover i,
   .triggeredHover {
     -moz-transform: rotate(360deg);
